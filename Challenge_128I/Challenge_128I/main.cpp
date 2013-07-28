@@ -133,16 +133,16 @@ class MatrixCity {
 };
 
 int main(int argc, char** argv) {
-    if(argc != 2) {
-        std::cout << "Usage: " << argv[0] << " <filename>" << std::endl;
-        return 1;
-    }
+	if(argc != 2) {
+		std::cout << "Usage: " << argv[0] << " <filename>" << std::endl;
+		return 1;
+	}
 
-    std::ifstream input(argv[1]);
-    if(!input.good()) {
-        std::cout << "Cannot read matrix city file" << std::endl;
-        return 1;
-    }
+	std::ifstream input(argv[1]);
+	if(!input.good()) {
+		std::cout << "Cannot read matrix city file" << std::endl;
+		return 1;
+	}
 
 	MatrixCity city(input);
 
