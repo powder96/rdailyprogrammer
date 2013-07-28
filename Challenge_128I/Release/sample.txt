@@ -1,0 +1,10 @@
+Row 0 repaired.
+Row 2 repaired.
+Row 4 repaired.
+Column 2 repaired.
+
+x x x x x    
+1 4 x 5 3    
+x x x x x    
+2 4 x 5 2    
+x x x x x
