@@ -18,7 +18,6 @@
 
 #include <fstream>
 #include <iostream>
-#include <iomanip>
 #include <list>
 
 class Maze {
