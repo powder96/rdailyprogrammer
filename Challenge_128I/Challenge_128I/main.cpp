@@ -24,16 +24,16 @@ class MatrixCity {
 	public:
 		MatrixCity(std::istream& input) {
 			input >> this->size;
-			this->map = new int*[size];
+			this->map = new int*[this->size];
 			for(unsigned int y = 0; y < this->size; y++) {
-				this->map[y] = new int[size];
+				this->map[y] = new int[this->size];
 				for(unsigned int x = 0; x < this->size; x++)
 					input >> this->map[y][x];
 			}
 		}
 
 		~MatrixCity() {
-			for(unsigned int y = 0; y < size; y++)
+			for(unsigned int y = 0; y < this->size; y++)
 				delete[] this->map[y];
 			delete[] this->map;
 		}
