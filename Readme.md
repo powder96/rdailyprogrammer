@@ -115,30 +115,30 @@ Solutions for /r/dailyprogrammer/ challenges.
 * Challenge #108E - http://reddit.com/1268t4/
 * Challenge #109E - http://reddit.com/12csk7/
 * Challenge #110E - http://reddit.com/12k3xr/
-* [Challenge #111E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_111E/Challenge_111E/main.cpp) - http://reddit.com/12qi5b/
+* [Challenge #111E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_111E/Challenge_111E/main.cpp) - reddit.com/12qi5b/
 * Challenge #112E - http://reddit.com/137f7t/
 * Challenge #113E - http://reddit.com/13hmz3/
 * Challenge #114E - http://reddit.com/149kec/
-* [Challenge #115E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_115E/Challenge_115E/main.cpp) - http://reddit.com/15ul7q/
+* [Challenge #115E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_115E/Challenge_115E/main.cpp) - reddit.com/15ul7q/
 * Challenge #116E - http://reddit.com/164zvs/
-* [Challenge #117E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_117E/Challenge_117E/main.cpp) - http://reddit.com/16jiuq/
+* [Challenge #117E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_117E/Challenge_117E/main.cpp) - reddit.com/16jiuq/
 * Challenge #118E - http://reddit.com/16z9oj/
-* [Challenge #119E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_119E/Challenge_119E/main.cpp) - http://reddit.com/17f3y2/
+* [Challenge #119E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_119E/Challenge_119E/main.cpp) - reddit.com/17f3y2/
 * Challenge #120E - http://reddit.com/17uw4s/
-* [Challenge #121E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_121E/Challenge_121E/main.cpp) - http://reddit.com/19mn2d/
-* [Challenge #122E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_122E/Challenge_122E/main.cpp) - http://reddit.com/1aih0v/
-* [Challenge #123-1E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_123-1E/Challenge_123-1E/main.cpp) - http://reddit.com/1cdktg/, http://reddit.com/1berjh/, http://reddit.com/1cundw/
+* [Challenge #121E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_121E/Challenge_121E/main.cpp) - reddit.com/19mn2d/
+* [Challenge #122E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_122E/Challenge_122E/main.cpp) - reddit.com/1aih0v/
+* [Challenge #123-1E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_123-1E/Challenge_123-1E/main.cpp) - reddit.com/1cdktg/, reddit.com/1berjh/, reddit.com/1cundw/
 * Challenge #123-2E - http://reddit.com/1dbpm9/, http://reddit.com/1ds3sn/
-* [Challenge #124E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_124E/Challenge_124E/main.cpp) - http://reddit.com/1dsyrk/
+* [Challenge #124E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_124E/Challenge_124E/main.cpp) - reddit.com/1dsyrk/
 * Challenge #125E - http://reddit.com/1e97ob/
 * Challenge #126E - http://reddit.com/1epasu/
-* [Challenge #127E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_127E/Challenge_127E/main.cpp) - http://reddit.com/1f7qp5/
-* [Challenge #128E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_128E/Challenge_128E/main.cpp) - http://reddit.com/1fnutb/
-* [Challenge #129E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_129E/Challenge_129E/main.cpp) - http://reddit.com/1g0tw1/
-* [Challenge #130E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_130E/Challenge_130E/main.cpp) - http://reddit.com/1givnn/
-* [Challenge #131E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_131E/Challenge_131E/main.cpp) - http://reddit.com/1heozl/
-* [Challenge #132E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_132E/Challenge_132E/main.cpp) - http://reddit.com/1hvh6u/
-* [Challenge #133E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_133E/Challenge_133E/main.cpp) - http://reddit.com/1iambu/
+* [Challenge #127E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_127E/Challenge_127E/main.cpp) - reddit.com/1f7qp5/
+* [Challenge #128E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_128E/Challenge_128E/main.cpp) - reddit.com/1fnutb/
+* [Challenge #129E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_129E/Challenge_129E/main.cpp) - reddit.com/1g0tw1/
+* [Challenge #130E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_130E/Challenge_130E/main.cpp) - reddit.com/1givnn/
+* [Challenge #131E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_131E/Challenge_131E/main.cpp) - reddit.com/1heozl/
+* [Challenge #132E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_132E/Challenge_132E/main.cpp) - reddit.com/1hvh6u/
+* [Challenge #133E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_133E/Challenge_133E/main.cpp) - reddit.com/1iambu/
 
 ###Intermediate
 
@@ -260,23 +260,23 @@ Solutions for /r/dailyprogrammer/ challenges.
 * Challenge #116I - http://reddit.com/169hkl/
 * Challenge #117I - http://reddit.com/16obmx/
 * Challenge #118I - http://reddit.com/1742uv/
-* [Challenge #119I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_119I/Challenge_119I/main.cpp) - http://reddit.com/17jvoh/
+* [Challenge #119I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_119I/Challenge_119I/main.cpp) - reddit.com/17jvoh/
 * Challenge #120I - http://reddit.com/17zn6g/
-* [Challenge #121-1I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_121-1I/Challenge_121-1I/main.cpp) - http://reddit.com/19rkqr/, http://reddit.com/1a7ca0/
+* [Challenge #121-1I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_121-1I/Challenge_121-1I/main.cpp) - reddit.com/19rkqr/, reddit.com/1a7ca0/
 * Challenge #121-2I - http://reddit.com/1b3ka1/
 * Challenge #122I - http://reddit.com/1ceai7/
 * Challenge #123I - http://reddit.com/1dx3wj/
 * Challenge #124I - http://reddit.com/1ee664/
 * Challenge #125I - http://reddit.com/1euacb/
 * Challenge #126I - http://reddit.com/1fcpnx/
-* [Challenge #127I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_127I/Challenge_127I/main.cpp) - http://reddit.com/1g09qy/
-* [Challenge #128I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_128I/Challenge_128I/main.cpp) - http://reddit.com/1g7gyi/
-* [Challenge #129I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_129I/Challenge_129I/main.cpp) - http://reddit.com/1hzq9y/
-* [Challenge #130I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_130I/Challenge_130I/main.cpp) - http://reddit.com/1ihm0q/
+* [Challenge #127I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_127I/Challenge_127I/main.cpp) - reddit.com/1g09qy/
+* [Challenge #128I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_128I/Challenge_128I/main.cpp) - reddit.com/1g7gyi/
+* [Challenge #129I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_129I/Challenge_129I/main.cpp) - reddit.com/1hzq9y/
+* [Challenge #130I](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_130I/Challenge_130I/main.cpp) - reddit.com/1ihm0q/
 
 ### Hard/Difficult
 
-* [Challenge #001H](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_115E/Challenge_115E/main.cpp) - http://reddit.com/pii6j/
+* [Challenge #001H](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_115E/Challenge_115E/main.cpp) - reddit.com/pii6j/
 * Challenge #002H - http://reddit.com/pjsdx/
 * Challenge #003H - http://reddit.com/pkwgf/
 * Challenge #004H - http://reddit.com/pm7g7/
