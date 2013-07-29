@@ -1,5 +1,5 @@
 /**
- * Solution for the /r/dailyprogrammer/ challenge #077E (http:/r/eddit.com/wn3ld/)
+ * Solution for the /r/dailyprogrammer/ challenge #077E (http://reddit.com/wn3ld/)
  * Copyright (C) 2013 powder96 <https://github.com/powder96/>
  *
  * This program is free software: you can redistribute it and/or modify
