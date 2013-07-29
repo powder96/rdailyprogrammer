@@ -1,5 +1,5 @@
 /**
- * Solution for the /r/dailyprogrammer/ challenge #122-2E (http://reddit.com/1aih0v/)
+ * Solution for the /r/dailyprogrammer/ challenge #122E (http://reddit.com/1aih0v/)
  * Copyright (C) 2013 powder96 <https://github.com/powder96/>
  *
  * This program is free software: you can redistribute it and/or modify

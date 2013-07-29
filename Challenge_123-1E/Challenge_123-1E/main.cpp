@@ -1,5 +1,5 @@
 /**
- * Solution for the /r/dailyprogrammer/ challenge #122-1E (http://reddit.com/1cdktg/,
+ * Solution for the /r/dailyprogrammer/ challenge #123-1E (http://reddit.com/1cdktg/,
  *                                                         http://reddit.com/1berjh/,
  *                                                         http://reddit.com/1cundw/)
  * Copyright (C) 2013 powder96 <https://github.com/powder96/>

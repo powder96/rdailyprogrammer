@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="Challenge_122-2E"
+	Name="Challenge_122E"
 	ProjectGUID="{488BE453-4BC7-4757-BDDC-8F150F9FAC4B}"
-	RootNamespace="Challenge_1222E"
+	RootNamespace="Challenge_122E"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>

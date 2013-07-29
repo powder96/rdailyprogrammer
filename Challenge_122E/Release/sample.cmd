@@ -1,6 +1,6 @@
 @echo off
-echo Challenge 122-2E
-echo ================
+echo Challenge 122E
+echo ==============
 echo.
 echo Input
 echo -----
@@ -14,6 +14,6 @@ type sample.txt
 echo.
 echo Actual output
 echo -------------
-Challenge_122-2E enable1.txt
+Challenge_122E enable1.txt
 echo.
 pause

@@ -1,5 +1,5 @@
 set sample=%1
-echo Challenge 122-1E: Sample %sample%
+echo Challenge 123-1E: Sample %sample%
 echo ==========================
 echo.
 echo Input
@@ -15,6 +15,6 @@ echo.
 :actualOutput
 echo Actual output
 echo -------------
-Challenge_122-1E < sample%sample%.dat
+Challenge_123-1E < sample%sample%.dat
 echo.
 pause

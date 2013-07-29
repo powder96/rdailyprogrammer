@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C++ Express 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenge_122-2E", "Challenge_122-2E\Challenge_122-2E.vcproj", "{488BE453-4BC7-4757-BDDC-8F150F9FAC4B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenge_122E", "Challenge_122E\Challenge_122E.vcproj", "{488BE453-4BC7-4757-BDDC-8F150F9FAC4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
