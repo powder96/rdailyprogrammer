@@ -64,7 +64,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 * Challenge #079E - reddit.com/wvc21/
 * Challenge #078E - reddit.com/wrqbr/
 * [Challenge #077E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_077E/Challenge_077E/main.cpp) - reddit.com/wn3ld/
-* Challenge #076E - reddit.com/wjzly/
+* [Challenge #076E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_076E/Challenge_076E/main.cpp) - reddit.com/wjzly/
 * Challenge #075E - reddit.com/wfhua/
 * Challenge #074E - reddit.com/wa0mc/
 * Challenge #073E - reddit.com/w4l6e/
