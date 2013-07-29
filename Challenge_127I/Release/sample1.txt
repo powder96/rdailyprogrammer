@@ -1,0 +1,2 @@
+3 call forwardings set up on day 2
+3 call forwardings are the longest chain on day 2

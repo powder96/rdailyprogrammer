@@ -1,0 +1,2 @@
+4 call forwardings set up on day 7
+2 call forwardings are the longest chain on day 7

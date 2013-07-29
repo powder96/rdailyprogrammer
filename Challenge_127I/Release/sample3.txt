@@ -1,0 +1,2 @@
+4 call forwardings set up on day 2
+Circular forwarding was detected on day 2
