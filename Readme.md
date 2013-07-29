@@ -30,7 +30,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 * [Challenge #113E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_113E/Challenge_113E/main.cpp) - reddit.com/13hmz3/
 * Challenge #112E - reddit.com/137f7t/
 * [Challenge #111E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_111E/Challenge_111E/main.cpp) - reddit.com/12qi5b/
-* Challenge #110E - reddit.com/12k3xr/
+* [Challenge #110E](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_110E/Challenge_110E/main.cpp) - reddit.com/12k3xr/
 * Challenge #109E - reddit.com/12csk7/
 * Challenge #108E - reddit.com/1268t4/
 * Challenge #107E - reddit.com/122c4t/
