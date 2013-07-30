@@ -315,7 +315,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 * Challenge #091H - reddit.com/yqyrs/
 * Challenge #090H - reddit.com/ynw9q/
 * Challenge #089H - reddit.com/yj38u/
-* Challenge #088H - reddit.com/y5t0y/
+* [Challenge #088H](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_088H/Challenge_088H/main.cpp) - reddit.com/y5t0y/
 * Challenge #087H - reddit.com/y2lbv/
 * Challenge #086H - reddit.com/xx970/
 * Challenge #085H - reddit.com/xq385/
