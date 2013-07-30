@@ -42,7 +42,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 * Challenge #101E - reddit.com/10l8ay/
 * Challenge #100E - reddit.com/106go0/
 * Challenge #099E - reddit.com/101m7y/
-* Challenge #098E - reddit.com/zx8vw/
+* [__Challenge #098E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_098E/Challenge_098E/main.cpp) - reddit.com/zx8vw/
 * [__Challenge #097E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_097E/index.php) - reddit.com/zkdv1/
 * Challenge #096E - reddit.com/zfe7v/
 * Challenge #095E - reddit.com/za9op/
