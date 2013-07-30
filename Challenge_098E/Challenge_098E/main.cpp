@@ -67,7 +67,7 @@ void printArithmeticTable(std::ostream& output, char operation, unsigned int siz
 
 int main(int argc, char** argv) {
 	if(argc != 3) {
-		std::cerr << "Usage: " << argv[0] << " <operation:+-*/> <uint:number>" << std::endl;
+		std::cerr << "Usage: " << argv[0] << " <operation:+-*/%> <uint:number>" << std::endl;
 		return 1;
 	}
 
