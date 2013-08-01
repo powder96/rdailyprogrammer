@@ -54,7 +54,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 * Challenge #089E - reddit.com/yj2zq/
 * [__Challenge #088E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_088E/Challenge_088E/main.cpp) - reddit.com/y5sox/
 * Challenge #087E - reddit.com/y26pr/
-* Challenge #086E - reddit.com/xxbbo/
+* [__Challenge #086E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_086E/Challenge_086E/main.cpp) - reddit.com/xxbbo/
 * Challenge #085E - reddit.com/xq0yv/
 * Challenge #084E - reddit.com/xilfu/
 * Challenge #083E - reddit.com/xdwyb/
