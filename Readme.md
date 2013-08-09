@@ -6,6 +6,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 
 ### Easy
 
+* [__Challenge #134E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_134E/main.cpp) - reddit.com/1jtryq/
 * [__Challenge #133E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_133E/Challenge_133E/main.cpp) - reddit.com/1iambu/
 * [__Challenge #132E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_132E/Challenge_132E/main.cpp) - reddit.com/1hvh6u/
 * [__Challenge #131E__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_131E/Challenge_131E/main.cpp) - reddit.com/1heozl/
@@ -142,6 +143,7 @@ Solutions for /r/dailyprogrammer/ challenges.
 
 ###Intermediate
 
+* Challenge #131I - reddit.com/1jz2os/
 * [__Challenge #130I__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_130I/Challenge_130I/main.cpp) - reddit.com/1ihm0q/
 * [__Challenge #129I__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_129I/Challenge_129I/main.cpp) - reddit.com/1hzq9y/
 * [__Challenge #128I__](https://github.com/powder96/rdailyprogrammer/blob/master/Challenge_128I/Challenge_128I/main.cpp) - reddit.com/1g7gyi/
